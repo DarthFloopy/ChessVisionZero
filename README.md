@@ -15,14 +15,14 @@ for that square, hit Enter to get the next square.
  - By default, the script will spit out ten squares and then quit, but you can give a bigger (or smaller)
  number as a command-line argument.
 
----
+## Inspiration
 
 I wrote this based on an idea I got from the ["Vision trainer" on chess.com](https://www.chess.com/vision).
 I was annoyed by the unnatural feeling of the available mouse and touch interfaces, and I figured that
 chess players who are strong enough shouldn't need a board for the drill anyway, so I wrote this as a simpler
 drill.
 
----
+## Contributing
 
 In the future, I want to flesh this out into a more full-featured program, possibly including a GUI.
 If you're interested in contributing in some way, PRs are welcome! 😄
