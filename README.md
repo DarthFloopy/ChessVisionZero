@@ -24,6 +24,6 @@ drill.
 
 ---
 
-In the future, I want to flesh this out into a more full-featured program, possible including a GUI.
+In the future, I want to flesh this out into a more full-featured program, possibly including a GUI.
 If you're interested in contributing in some way, PRs are welcome! 😄
 
